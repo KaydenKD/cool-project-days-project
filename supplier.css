@@ -1,0 +1,15 @@
+
+body {
+    background-color: red;
+}
+
+.text-and-stuff {
+    color: white;
+}
+
+.landing-page {
+    font-size: 75px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
